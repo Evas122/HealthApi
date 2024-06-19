@@ -1,0 +1,17 @@
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\bin\Debug\net6.0\HealthApp.Storage.deps.json
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\bin\Debug\net6.0\HealthApp.Storage.runtimeconfig.json
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\bin\Debug\net6.0\HealthApp.Storage.dll
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\bin\Debug\net6.0\HealthApp.Storage.pdb
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\bin\Debug\net6.0\HealthApp.Common.Storage.dll
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\bin\Debug\net6.0\HealthApp.Common.Storage.pdb
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\obj\Debug\net6.0\HealthApp.Storage.csproj.AssemblyReference.cache
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\obj\Debug\net6.0\HealthApp.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\obj\Debug\net6.0\HealthApp.Storage.AssemblyInfoInputs.cache
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\obj\Debug\net6.0\HealthApp.Storage.AssemblyInfo.cs
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\obj\Debug\net6.0\HealthApp.Storage.csproj.CoreCompileInputs.cache
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\obj\Debug\net6.0\HealthApp.Storage.csproj.CopyComplete
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\obj\Debug\net6.0\HealthApp.Storage.dll
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\obj\Debug\net6.0\refint\HealthApp.Storage.dll
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\obj\Debug\net6.0\HealthApp.Storage.pdb
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\obj\Debug\net6.0\HealthApp.Storage.genruntimeconfig.cache
+C:\Users\HypX\source\repos\HealthAppProject\HealthApp.Storage\obj\Debug\net6.0\ref\HealthApp.Storage.dll

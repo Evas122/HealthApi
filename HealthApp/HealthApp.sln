@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthApp", "HealthApp.csproj", "{87E8079A-8F91-4F81-83FD-F0F720DCFF8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UserInterface", "UserInterface", "{93B31763-3B09-4010-A7DC-5DE914B80EE9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{F054D801-8B23-4AB0-BA5B-166B583EFF6E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{5AE1683C-3092-4E2A-A69A-ECA91878E56C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Storage", "Storage", "{0C4AEF25-CEB4-40C5-8D93-4A92E8B86408}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthApp.Common.Storage", "..\HealthApp.Common.Storage\HealthApp.Common.Storage.csproj", "{34EE1141-8EEF-4ADC-B825-E09516EC87AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthApp.Service", "..\HealthApp.Service\HealthApp.Service.csproj", "{3D456766-4D0E-4DCB-9A24-FB7BC58617C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthApp.Storage", "..\HealthApp.Storage\HealthApp.Storage.csproj", "{7CE7084D-7C5B-4AC6-973E-91A896DC47C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87E8079A-8F91-4F81-83FD-F0F720DCFF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E8079A-8F91-4F81-83FD-F0F720DCFF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E8079A-8F91-4F81-83FD-F0F720DCFF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E8079A-8F91-4F81-83FD-F0F720DCFF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34EE1141-8EEF-4ADC-B825-E09516EC87AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EE1141-8EEF-4ADC-B825-E09516EC87AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EE1141-8EEF-4ADC-B825-E09516EC87AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EE1141-8EEF-4ADC-B825-E09516EC87AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D456766-4D0E-4DCB-9A24-FB7BC58617C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D456766-4D0E-4DCB-9A24-FB7BC58617C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D456766-4D0E-4DCB-9A24-FB7BC58617C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D456766-4D0E-4DCB-9A24-FB7BC58617C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE7084D-7C5B-4AC6-973E-91A896DC47C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE7084D-7C5B-4AC6-973E-91A896DC47C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE7084D-7C5B-4AC6-973E-91A896DC47C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE7084D-7C5B-4AC6-973E-91A896DC47C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{87E8079A-8F91-4F81-83FD-F0F720DCFF8C} = {93B31763-3B09-4010-A7DC-5DE914B80EE9}
+		{34EE1141-8EEF-4ADC-B825-E09516EC87AA} = {F054D801-8B23-4AB0-BA5B-166B583EFF6E}
+		{3D456766-4D0E-4DCB-9A24-FB7BC58617C3} = {5AE1683C-3092-4E2A-A69A-ECA91878E56C}
+		{7CE7084D-7C5B-4AC6-973E-91A896DC47C1} = {0C4AEF25-CEB4-40C5-8D93-4A92E8B86408}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B089B0A1-2168-419F-92FA-36279A7A435E}
+	EndGlobalSection
+EndGlobal
