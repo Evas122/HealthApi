@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace HealthApp.Storage.Entities
 {
-    [Table("HealthRepors", Schema = "HealthApp")]
+    [Table("HealthReports", Schema = "HealthApp")]
     public class HealthReport : BaseEntity
     {
         public Guid UserId { get; set; }

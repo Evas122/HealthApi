@@ -16,5 +16,7 @@ namespace HealthApp.Storage.Entities
 
         public virtual ICollection<HealthData> HealthData { get; set; }
         public virtual ICollection<HealthReport> HealthReport { get; set; }
+
+        public virtual ICollection<MonitoringDevice> MonitoringDevices { get; set; }
     }
 }
